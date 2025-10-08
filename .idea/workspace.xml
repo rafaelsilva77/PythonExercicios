@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7a0b304-9a92-45bf-93c9-89933b78f663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex021.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex023.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +63,8 @@
     "Python.ex019.executor": "Run",
     "Python.ex020.executor": "Run",
     "Python.ex021.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex023.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
