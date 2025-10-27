@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7a0b304-9a92-45bf-93c9-89933b78f663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex041.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +78,8 @@
     "Python.ex037.executor": "Run",
     "Python.ex038.executor": "Run",
     "Python.ex039.executor": "Run",
+    "Python.ex040.executor": "Run",
+    "Python.ex041.executor": "Run",
     "Python.ex31.executor": "Run",
     "Python.ex33.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
