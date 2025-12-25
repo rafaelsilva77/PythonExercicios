@@ -5,22 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7a0b304-9a92-45bf-93c9-89933b78f663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex080.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,13 +114,33 @@
     "Python.ex059.executor": "Run",
     "Python.ex060.executor": "Run",
     "Python.ex061.executor": "Run",
+    "Python.ex064.executor": "Run",
+    "Python.ex065.executor": "Run",
+    "Python.ex066.executor": "Run",
+    "Python.ex067.executor": "Run",
+    "Python.ex068.executor": "Run",
+    "Python.ex069.executor": "Run",
+    "Python.ex070.executor": "Run",
+    "Python.ex071.executor": "Run",
+    "Python.ex072.executor": "Run",
+    "Python.ex073.executor": "Run",
+    "Python.ex074.executor": "Run",
+    "Python.ex075.executor": "Run",
+    "Python.ex076.executor": "Run",
+    "Python.ex077.executor": "Run",
+    "Python.ex078.executor": "Run",
+    "Python.ex079.executor": "Run",
+    "Python.ex080.executor": "Run",
     "Python.ex31.executor": "Run",
     "Python.ex33.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/gpsrd/PycharmProjects/PythonExercicios"
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/gpsrd/PycharmProjects/PythonExercicios",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
