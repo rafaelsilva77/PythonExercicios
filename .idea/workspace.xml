@@ -5,25 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7a0b304-9a92-45bf-93c9-89933b78f663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex099.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.desafio085.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
@@ -131,8 +132,24 @@
     "Python.ex078.executor": "Run",
     "Python.ex079.executor": "Run",
     "Python.ex080.executor": "Run",
+    "Python.ex081.executor": "Run",
+    "Python.ex082.executor": "Run",
+    "Python.ex084.executor": "Run",
+    "Python.ex087.executor": "Run",
+    "Python.ex088.executor": "Run",
+    "Python.ex089.executor": "Run",
+    "Python.ex091.executor": "Run",
+    "Python.ex092.executor": "Run",
+    "Python.ex093.executor": "Run",
+    "Python.ex094.executor": "Run",
+    "Python.ex095.executor": "Run",
+    "Python.ex096.executor": "Run",
+    "Python.ex097.executor": "Run",
+    "Python.ex098.executor": "Run",
+    "Python.ex099.executor": "Run",
     "Python.ex31.executor": "Run",
     "Python.ex33.executor": "Run",
+    "Python.ex86.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
